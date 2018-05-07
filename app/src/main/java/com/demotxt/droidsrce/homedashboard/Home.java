@@ -1,13 +1,13 @@
 package com.demotxt.droidsrce.homedashboard;
 
-import android.animation.Animator;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
 import android.view.View;
-import android.view.ViewAnimationUtils;
 import android.widget.LinearLayout;
+
+//https://www.youtube.com/watch?v=-YCUrHFUxlA&feature=youtu.be
 
 public class Home extends AppCompatActivity {
 CardView mycard ;
